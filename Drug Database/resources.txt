@@ -1,0 +1,39 @@
+These are helpful resources for setting up stuff:
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server#:~:text=At%20the%20most%20basic%20level,the%20browser%2C%20also%20through%20HTTP.
+
+
+https://askubuntu.com/questions/145748/how-to-compile-a-java-file-on-ubuntu
+
+
+Connecting Java to mySQL
+https://stackoverflow.com/questions/2839321/connect-java-to-a-mysql-database
+
+UPDATED Tomcat 10 setup on Ubuntu 20:
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-10-on-ubuntu-20-04
+
+
+Apache Tomcat setup on linux, EC2
+https://www.digitalocean.com/community/tutorials/install-tomcat-on-linux
+https://blog.devops4me.com/aws-tutorial-how-to-install-tomcat-in-aws-ec2-install/
+
+(REMOTE VSCode editing onto AWS EC2 instance)
+
+https://medium.com/@christyjacob4/using-vscode-remotely-on-an-ec2-instance-7822c4032cff
+
+
+
+https://aws.amazon.com/getting-started/hands-on/create-mysql-db/
+
+$6 / year on rds, $4 / year on EC2 if 1-2 hrs/mo
+$4 / year on EC2 if 10 hrs / month on t4g.micro
+
+https://www.geeksforgeeks.org/how-to-install-mysql-on-aws-ec2/
+
+https://successengineer.medium.com/how-to-automatically-turn-off-your-ec2-instance-in-2021-b73374e51090
+
+(Will save you considerable money)
+
+https://towardsdatascience.com/running-mysql-databases-on-aws-ec2-a-tutorial-for-beginners-4301faa0c247
+
+
